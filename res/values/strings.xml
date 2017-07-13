@@ -3,5 +3,10 @@
 
     <string name="app_name">AndroidHello</string>
     <string name="hello_world">Hello world!</string>
-
+	<string name="title">欢迎使用GITHUB！</string>
+	<string name="username">用户名:</string>
+	<string name="inputusername">请输入用户名</string>
+	<string name="userpasswd">密　码:</string>
+	<string name="inputuserpasswd">请输入密　码</string>
+	
 </resources>
